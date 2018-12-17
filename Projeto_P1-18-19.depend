@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1544483934 source:e:\ipl\2018-2019\1-ano\1-semestre\programacao i\projeto\guithub\projeto_p1-18-19\main.c
+	<stdio.h>
+	<stdlib.h>
+	"constantes.h"
+	"funcoes_auxiliares.h"
+
+1544479060 e:\ipl\2018-2019\1-ano\1-semestre\programacao i\projeto\guithub\projeto_p1-18-19\constantes.h
+
+1544483786 e:\ipl\2018-2019\1-ano\1-semestre\programacao i\projeto\guithub\projeto_p1-18-19\funcoes_auxiliares.h
+	"constantes.h"
+
+1544483990 source:e:\ipl\2018-2019\1-ano\1-semestre\programacao i\projeto\guithub\projeto_p1-18-19\funcoes_auxiliares.c
+	<stdio.h>
+	<string.h>
+	"funcoes_auxiliares.h"
+

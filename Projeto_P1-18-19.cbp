@@ -36,6 +36,31 @@
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="funcoes_auxiliares.h" />
+		<Unit filename="funcoes_bicicletas.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="funcoes_bicicletas.h" />
+		<Unit filename="funcoes_estatisticas.c">
+			<Option compilerVar="CC" />
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="funcoes_estatisticas.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="funcoes_ficheiros.c">
+			<Option compilerVar="CC" />
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="funcoes_ficheiros.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="funcoes_utentes.c">
+			<Option compilerVar="CC" />
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="funcoes_utentes.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
 		<Unit filename="main.c">
 			<Option compilerVar="CC" />
 		</Unit>
